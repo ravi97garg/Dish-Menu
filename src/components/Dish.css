@@ -1,0 +1,20 @@
+td {
+    padding: 5px 20px;
+    text-align: center;
+}
+
+td.sno{
+    width: 10%;
+}
+
+td.name{
+    width: 40%;
+}
+
+td.cost{
+    width: 20%;
+}
+
+td.type{
+    width: 30%;
+}

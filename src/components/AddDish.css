@@ -1,0 +1,22 @@
+input, select,button{
+    padding: 4px 20px;
+    font-size: 20px;
+}
+
+.dishName,select,option{
+    width: 28%;
+}
+
+.dishCost{
+    width: 13%;
+}
+
+.addBtn{
+    width: 20%;
+
+}
+
+.AddDish{
+    width: 80%;
+    margin: 20px auto;
+}
